@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Portfolio.Vladison/static/css/main.6821068e.css",
+    "main.js": "/Portfolio.Vladison/static/js/main.d48092b7.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Portfolio.Vladison/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio.Vladison/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Vladison Costa.Curriculo.pdf": "/Portfolio.Vladison/static/media/Vladison Costa.Curriculo.0faa41b781d749b31f9a.pdf",
+    "static/media/home-main.svg": "/Portfolio.Vladison/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Portfolio.Vladison/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/Portfolio.Vladison/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/Portfolio.Vladison/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/Portfolio.Vladison/static/media/pre.d4812f51c8c80976eaab.svg",
+    "static/media/logo_vc.svg": "/Portfolio.Vladison/static/media/logo_vc.63fbe7bab0f4a39d56696506cf693cc8.svg",
+    "index.html": "/Portfolio.Vladison/index.html",
+    "main.6821068e.css.map": "/Portfolio.Vladison/static/css/main.6821068e.css.map",
+    "main.d48092b7.js.map": "/Portfolio.Vladison/static/js/main.d48092b7.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Portfolio.Vladison/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio.Vladison/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6821068e.css",
+    "static/js/main.d48092b7.js"
+  ]
+}
