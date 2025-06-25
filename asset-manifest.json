@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio.Vladison/static/css/main.6821068e.css",
-    "main.js": "/Portfolio.Vladison/static/js/main.f2b19f54.js",
+    "main.js": "/Portfolio.Vladison/static/js/main.9e4c261b.js",
     "static/js/415.4d6acbeb.chunk.js": "/Portfolio.Vladison/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio.Vladison/static/js/787.1ed0c42c.chunk.js",
     "static/media/Vladison Costa.Curriculo.pdf": "/Portfolio.Vladison/static/media/Vladison Costa.Curriculo.c391cba108071d7464fc.pdf",
@@ -13,12 +13,12 @@
     "static/media/logo_vc.svg": "/Portfolio.Vladison/static/media/logo_vc.63fbe7bab0f4a39d56696506cf693cc8.svg",
     "index.html": "/Portfolio.Vladison/index.html",
     "main.6821068e.css.map": "/Portfolio.Vladison/static/css/main.6821068e.css.map",
-    "main.f2b19f54.js.map": "/Portfolio.Vladison/static/js/main.f2b19f54.js.map",
+    "main.9e4c261b.js.map": "/Portfolio.Vladison/static/js/main.9e4c261b.js.map",
     "415.4d6acbeb.chunk.js.map": "/Portfolio.Vladison/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio.Vladison/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6821068e.css",
-    "static/js/main.f2b19f54.js"
+    "static/js/main.9e4c261b.js"
   ]
 }
